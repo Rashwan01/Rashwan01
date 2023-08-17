@@ -8,6 +8,6 @@ technologies I enjoy working with include Laravel, VueJS,Wordpress,Flutter, and 
 
 </br></br>
 - 🎓Faculty of computer and information science mansoura university 
-- 🔭 I'm a software developer[@Taswak](https://www.deliveryhero.com/) in Masnoura, Egypt 
+- 🔭 I'm a software developer[@Taswak](https://tasawk.com/) in Masnoura, Egypt 
 - 🌱 I’m currently learning competitive coding. 
 - ⚡ Available for Freelance projects/internship opportunities.
